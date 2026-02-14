@@ -39,6 +39,9 @@ function App() {
               <h1 className="text-4xl md:text-6xl font-serif text-gray-800 mb-8">
                 25th Anniversary Celebration
               </h1>
+              <p className="text-neutral-600 mb-8 max-w-md mx-auto">
+                We've prepared a special experience for you. Please enable sound for the best experience.
+              </p>
               <button
                 onClick={handleOpen}
                 className="bg-pink-500 text-white px-8 py-4 rounded-full text-xl font-serif hover:bg-pink-600 transition-colors shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300"
