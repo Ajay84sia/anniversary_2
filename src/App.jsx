@@ -43,7 +43,7 @@ function App() {
                 onClick={handleOpen}
                 className="bg-pink-500 text-white px-8 py-4 rounded-full text-xl font-serif hover:bg-pink-600 transition-colors shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300"
               >
-                Open Invitation
+                Open Wishes
               </button>
             </motion.div>
           </motion.div>
