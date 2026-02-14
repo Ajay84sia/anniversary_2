@@ -47,6 +47,7 @@ const AudioPlayer = () => {
   return (
     <div className="fixed bottom-4 right-4 z-50">
       <audio 
+        id="bg-music"
         ref={audioRef} 
         loop 
         src={audio} 
